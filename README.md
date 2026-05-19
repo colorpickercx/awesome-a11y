@@ -17,6 +17,8 @@ Image is an illustration by [Heydon Pickering](http://www.heydonworks.com/) whic
 > A curated list of awesome accessibility tools, articles, and resources.
 > Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox](https://github.com/afonsopacifer/awesome-flexbox).
 
+> Disclaimer: We do not accept accessibility overlay tools on the list. All resources with solutions based in overlay don't be accepected. We subscribe to [Overlay Fact Sheet](https://overlayfactsheet.com/en/)
+
 _Please read the [contribution guidelines](CONTRIBUTING.md) before contributing._
 
 **Table of Contents**
