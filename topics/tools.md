@@ -99,6 +99,7 @@
 |[Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en)|Contrast finder that suggests a valid color range
 |[WCAG Color Contrast Checker](https://www.davidmello.com/tools/color-contrast-checker)|Checks foreground and background color pairs against WCAG 2.1 AA and AAA thresholds, with colorblindness simulation for four deficiency types, accessible color variant suggestions, and a shareable URL
 |[Who Can use](https://whocanuse.com/)||
+|[ColorTools Contrast Checker](https://colorpicker.cx/contrast)|Free WCAG and APCA contrast checker with pass/fail ratings and suggested accessible color alternatives; part of a browser-based color toolkit.
 
 ### Validators
 
